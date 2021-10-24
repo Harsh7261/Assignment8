@@ -6,7 +6,7 @@ var secondary2 = "#EAEFF5";
 
 var employee_list;
 
-employee_list = [["Albus Dumbledor", "Headmaster", 3213], ["Rubeus Hagrid", "Gamekeeper", 3214], ["Draco Malfoy", "Villain", 3215], ["Sirius Black", "Godfather", 3216], ["Lily Potter", "Auror", 3217]];
+employee_list = [["Harsh Shah", "Manager", 101], ["Jainam Sheth", "Employee", 102], ["Hitensh Kharva", "PM", 103], ["Pritesh Chokshi", "Employee", 104], ["Sharad Dabhi", "Support Staff", 105]];
 
 //Helper function to get an element from the DOM
 var $ = function (id) {
